@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oumar
-- 👀 I’m interested in Full stack Web Development
+- 👀 I’m interested in Software Development
 
 <!---
 oumar-s/oumar-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
